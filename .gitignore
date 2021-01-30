@@ -72,3 +72,6 @@ crashlytics-build.properties
 
 # Visual Studio Code folder
 /.vscode
+
+# Visual Studio config file
+.vsconfig
